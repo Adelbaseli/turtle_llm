@@ -2,7 +2,6 @@
 llm_unit/build/
 llm_unit/install/
 llm_unit/log/
-a.py
 
 # Ignore sandbox completely
 turtlebot3_agent_sandbox/
